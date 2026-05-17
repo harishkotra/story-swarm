@@ -2,6 +2,8 @@
 
 **Story Swarm** is a chaotic, multi-agent cinematic storytelling simulator. It brings together multiple distinct AI personalities that collaboratively weave a movie narrative in real-time, governed by an orchestrator and influenced by a dynamic "Chaos Level" and "Global Temperature".
 
+https://github.com/user-attachments/assets/6ecb097c-48ca-45ae-8903-b47eff6ad8ab
+
 ## Features
 
 - **Multi-Agent Collaboration**: Up to 6 unique agents (The Neo-Noir Cynic, The Surrealist Dreamer, etc.) can occupy the writer's room.
