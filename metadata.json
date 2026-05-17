@@ -1,0 +1,8 @@
+{
+  "name": "Story Swarm",
+  "description": "A chaotic multi-agent cinematic storytelling simulator where multiple AI agents collaboratively generate a movie story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
